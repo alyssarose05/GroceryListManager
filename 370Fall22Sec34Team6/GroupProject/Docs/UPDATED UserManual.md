@@ -64,10 +64,11 @@ In User page, press "SEARCH BY TYPE". Then input item type to search and the res
 ## 3 Lists
 ![](Images/Lists.png)
 
+If you click on the "LISTS" button, you'll see the lists that are associated with your account. 
+
 ### 3.1 Add List
 ![](Images/AddList.png)
 
-If you click on the "LISTS" button, you'll see the lists that are associated with your account. 
 If you click on the "ADD" button, you'll be prompted to type a name for a new list.
 Once you enter a name, it'll appear with the rest of your lists.
 
@@ -84,7 +85,7 @@ To view items inside of the list you choose, press "VIEW ITEMS", then you can se
 #### 3.2.2 Renaming Lists
 ![](Images/RenameList.png)
 
-To rename a list, press the "RENAME THE LIST" button and type in a new name for your list. Once you do so, the same list will have that new name. Ensure to rename, press "RENAME." Otherwise, press "CANCEL".
+To rename a list, press the "RENAME THE LIST" button and type in a new name for your list. Once you do so, the same list will have that new name. To confirm, press "RENAME." Otherwise, press "CANCEL".
 
 #### 3.2.3 Deleting Lists
 ![](Images/DeleteList.png)
