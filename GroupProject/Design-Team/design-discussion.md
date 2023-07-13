@@ -19,9 +19,7 @@
 **CONS:**
 
 - Any additional actions like saving are not explicitly mentioned.
-
 - Any commands that are to be used are not explicitly mentioned.
-
 - DataBase is not mentioned.
   
 
